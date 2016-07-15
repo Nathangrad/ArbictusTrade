@@ -1,0 +1,9 @@
+name: ArbictusTrade
+version: 1.0
+author: Nathangrad
+description: Arbictus Trading Plugin
+main: com.arbictus.trade.Trade
+commands:
+  trade:
+    description: Main trading command
+    usage: /<command>
